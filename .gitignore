@@ -1,2 +1,6 @@
 dist
 build
+config.json
+**/__pycache__
+.env
+.vscode
